@@ -9,7 +9,7 @@ Conferences and Journals
 <b>[LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.](http://liux4189.github.io/publications/LTE2B)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
 <i>17th ACM Conference on Embedded Networked Sensor Systems</i>. <b> (ACM Sensys’19) </b>.
-
+[[PDF]](https://liux4189.github.io/files/LTE2B_Sensys_CameraReady.pdf) [[Demo]](https://youtu.be/DomGy6Az8ew)
 
 <b>[BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation.](http://liux4189.github.io/publications/BlueBee)</b> <br> 
 Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Tian He. <br>
@@ -21,8 +21,8 @@ Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Tian He. <br>
 
 Patents
 ======
-<b>Emulation-based Cross-Technology Communication.  </b> <br> 
+<b>Emulation-based Cross-Technology Communication.</b> <br> 
 <i>US Patent App. 15/994,472 </i>
 
-<b>Emulation-based Cross-Technology for Decoding Communication. </b> <br>  
+<b>Emulation-based Cross-Technology for Decoding Communication.</b>  
 <i>US Patent App. 62/883,165 </i>

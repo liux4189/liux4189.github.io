@@ -17,31 +17,28 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-Now: Research Assistant
+  * University of Minnesota
+  * Duties included: Research in Cross Technology Communication
+  * Advisor: Tian He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2013-2016: Research Assistant
+  * Northwestern Polytechnical University
+  * Duties included: Develope ISA100 Industrial Sensor Network 
   * Supervisor: Professor Hub
   
-Skills
+Expertises
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Wireless Network
+  * WiFi, LTE, Bluetooth and ZigBee.
+  * Industrial Sensor Network, e.g., ISA100.
+* Signal Processing and Data analysis.
+  * Physical-layer Signal Processing.
+  * Software Define Radio.
+* Embedded System.
+  * Linux Wireless. 
+  * Embedded Programming.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -54,6 +51,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
