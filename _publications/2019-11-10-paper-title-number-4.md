@@ -1,5 +1,5 @@
 ---
-title: "R Liu, Z Yin, W Jiang, T He LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints"
+title: "LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints"
 collection: publications
 permalink: /publication/2019-11-10-paper-title-number-4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

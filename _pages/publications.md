@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conferences and Journals
+======
+<b>[LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
+<b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He.
+<i>17th ACM Conference on Embedded Networked Sensor Systems</i>. <b> (ACM Sensys’19) </b>.
