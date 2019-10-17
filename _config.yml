@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruofeng Liu"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Ph.D student at Univerity of Minnesota"
   location         : "Minneapolis,MN"
   employer         :
