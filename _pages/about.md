@@ -14,6 +14,8 @@ Biography
 ======
 * I am a Ph.D. student in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/). I am advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
 * I received my Bachelor’s and Master's Degree in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). 
+
+Research Interests
 ======
 * Internet-of-things. <br>
   --- Cross-Technology Communication
