@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: "About"
+header:
+  image:"header-about.jpg"
 excerpt: "About me"
 author_profile: true
-header:
-	image:"header-about.jpg"
 redirect_from: 
   - /about/
   - /about.html
