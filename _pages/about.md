@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 header:
   image:"header-about.jpg"
 excerpt: "About me"
