@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ruofeng Liu"
-  avatar           : "/assets/images/bio.jpg"
-  bio              : "Research Assistant at Univerity of Minnesota"
+  avatar           : "/images/bio-photo.jpg"
+  bio              : "Ph.D student at Univerity of Minnesota"
   location         : "Minneapolis,MN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
