@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Software Engineering, Northwestern Polytechnical University, 2009-2013
 * M.S. in Computer Science, Northwestern Polytechnical University, 2013-2016
-* Ph.D in Version Control Theory, GitHub University, 2016-Now
+* Ph.D in Computer Science, University of Minnesota, 2016-Now
 
 Work experience
 ======
