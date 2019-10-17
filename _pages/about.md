@@ -22,6 +22,6 @@ Research Interests
 
 Contact
 ======
-liux4189@umn.edu
+liux4189@umn.edu <br>
 4-204B, Kenneth H. Keller Hall200 Union St SE, Minneapolis, MN 55455
 
