@@ -1,15 +1,10 @@
 ---
-title: "LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints"
+title: "R Liu, Z Yin, W Jiang, T He LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints"
 collection: publications
 permalink: /publication/2019-11-10-paper-title-number-4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-11-10
-venue: 'Journal 1'
+venue: '17th ACM Conference on Embedded Networked Sensor Systems '
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[PDF]http://academicpages.github.io/files/paper1.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
