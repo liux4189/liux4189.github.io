@@ -16,7 +16,7 @@ redirect_from:
 
 Research Interests
 ======
-* Internet-of-things. <br>
+* Internet-of-things <br>
   --- Cross-Technology Communication
 * Wireless Network 
 * Embedded System
