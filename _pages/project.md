@@ -15,7 +15,7 @@ I develop CTC techniques on the commodity devices and several of them have been 
 
 ![]({{site.url}}{{site.baseurl}}/images/application.jpg){: .align-left}
 <b>LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.</b> <br> 
-LTE2B enables WAN/WLAN devices, e.g., LTE smartphone, WiFi access points to directly control low-power IoT devices, e.g., Bluetooth and ZigBee. The key intellectual merit of 
+LTE2B enables WAN/WLAN devices, e.g., LTE smartphone, WiFi access points to directly share data to low-power IoT devices, e.g., Bluetooth and ZigBee. The key intellectual merit of 
 LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmit to accurately produce Bluetooth and ZigBee waveform. 
 [[Project]](http://liux4189.github.io/publications/LTE2B)
 {:style="clear: left"}
@@ -24,9 +24,10 @@ LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmit to accurate
 ![]({{site.url}}{{site.baseurl}}/images/application.jpg){: .align-left}
 <b>BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation.</b> <br>
 {:style="clear: left"}
+BlueBee is inter-IoT CTC techniques. 
 
-
-Past Projects
+<br>
+Past Projects 
 ======
 I developed industrial Internet-of-things in wireless embedded system. I was the team leader to implement ISA100.11a standards including hardware, software protocol stack 
 and real-time scheduling algorithm. 
