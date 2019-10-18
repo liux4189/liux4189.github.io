@@ -14,7 +14,8 @@ My research covers both physical-layer CTC designs (e.g., signal processing and 
 I develop CTC techniques on the commodity devices and several of them have been proved to be commercially viable in the real applications. 
 
 ![]({{site.url}}{{site.baseurl}}/images/application.jpg){: .align-left}
-Something about the first picture.
+<b>LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.</b> <br> 
+[[Publication]](http://liux4189.github.io/publications/LTE2B)
 {:style="clear: left"}
 
 ![]({{site.url}}{{site.baseurl}}/images/application.jpg){: .align-left}
