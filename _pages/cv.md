@@ -25,7 +25,7 @@ Work experience
 * 2013-2016: Research Assistant
   * Northwestern Polytechnical University
   * Duties included: Develope ISA100 Industrial Sensor Network 
-  * Supervisor: Professor Hub
+  * Supervisor: Shining Li
   
 Expertises
 ======
