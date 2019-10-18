@@ -12,12 +12,12 @@ Conferences and Journals
 [[PDF]](https://liux4189.github.io/files/LTE2B_Sensys_CameraReady.pdf) [[Demo]](https://youtu.be/DomGy6Az8ew)
 
 <b>[BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation.](http://liux4189.github.io/publications/BlueBee)</b> <br> 
-Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Tian He. <br>
+Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Zhijun Li, Tian He. <br>
 <i>15th ACM Conference on Embedded Networked Sensor Systems</i>. <b> (ACM Sensys’17) </b>.
 [[PDF]](https://dl.acm.org/citation.cfm?id=3131678)
 
 <b>Boosting the Bitrate of Cross-Technology Communication on Commodity IoT Devices.</b> <br> 
-Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Tian He. <br>
+Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Zhijun Li, Tian He. <br>
 <i>ACM/IEEE Transactions on Networking </i>. <b> (TON’19) </b>.
 [[PDF]](https://ieeexplore.ieee.org/document/8732397)
 
