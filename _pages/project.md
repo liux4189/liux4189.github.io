@@ -16,7 +16,7 @@ I develop CTC techniques on the commodity devices and several of them have been 
 ![]({{site.url}}{{site.baseurl}}/images/lte2b.jpg){: .align-left}
 <b>LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.</b> <br> 
 LTE2B enables WAN/WLAN devices, e.g., LTE smartphone, WiFi access points to directly share data to low-power IoT devices, e.g., Bluetooth and ZigBee. The key intellectual merit of 
-LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmit to accurately produce Bluetooth and ZigBee waveform. 
+LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmitters to accurately produce Bluetooth and ZigBee waveform. 
 [[Project]](http://liux4189.github.io/publications/LTE2B)
 {:style="clear: left"}
 
