@@ -2,6 +2,8 @@
 title: "Featured Projects"
 permalink: /projects/
 author_profile: true
+header:
+  image: header-about.jpg
 ---
 
 Projects in CTC
