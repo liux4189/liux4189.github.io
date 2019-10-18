@@ -18,6 +18,7 @@ Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Tian He. <br>
 <b>Boosting the Bitrate of Cross-Technology Communication on Commodity IoT Devices.</b> <br> 
 Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Tian He. <br>
 <i>ACM/IEEE Transactions on Networking </i>. <b> (TON’19) </b>.
+[[PDF]](https://dl.acm.org/citation.cfm?id=3131678)
 
 Patents
 ======
