@@ -13,11 +13,11 @@ e.g, WiFi, LTE, Bluetooth, ZigBee and Lora. The ultimate goal is to achieve seam
 My research covers both physical-layer CTC designs (e.g., signal processing and wireless communications) and various CTC applications. 
 I develop CTC techniques on the commodity devices and several of them have been proved to be commercially viable in the real applications. 
 
-![](/images/application.jpg){: .align-left}
+![](application.jpg){: .align-left}
 Something about the first picture.
 {:style="clear: left"}
 
-![](/images/application.jpg){: .align-left}
+![](application.jpg){: .align-left}
 Something about the second picture.
 {:style="clear: left"}
 
