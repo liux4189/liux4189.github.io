@@ -23,10 +23,13 @@ LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmit to accurate
 <br>
 ![]({{site.url}}{{site.baseurl}}/images/application.jpg){: .align-left}
 <b>BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation.</b> <br>
+BlueBee is a CTC technique from Bluetooth to ZigBee. This project proposes physical-layer CTC scheme in which by carefully choosing the payload for one wireless technology, e.g., Bluetooth,
+the transmit can create legitimate waveform of another wireless technology, e.g., ZigBee. Physical-layer CTC opens the door for the communications between heterogeneous
+devices with high data rates. 
 {:style="clear: left"}
-BlueBee is inter-IoT CTC techniques. 
 
 <br>
+
 Past Projects 
 ======
 I developed industrial Internet-of-things in wireless embedded system. I was the team leader to implement ISA100.11a standards including hardware, software protocol stack 
