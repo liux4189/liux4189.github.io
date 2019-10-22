@@ -2,7 +2,7 @@
 title: "LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints."
 collection: publications
 permalink: /publications/LTE2B
-citation: '<b>Ruofeng Liu</b>, Jiaming Song, Stefano Ermon. <i>17th ACM Conference on Embedded Networked Sensor Systems </i>. <b>(ACM Sensys 2019)</b>.'
+citation: '<b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <i>17th ACM Conference on Embedded Networked Sensor Systems </i>. <b>(ACM Sensys 2019)</b>.'
 ---
 [[PDF]](https://liux4189.github.io/files/LTE2B_Sensys_CameraReady.pdf) [[Demo]](https://youtu.be/DomGy6Az8ew)
 ## Abstract
