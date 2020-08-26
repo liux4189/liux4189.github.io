@@ -6,6 +6,11 @@ author_profile: true
 
 Conferences and Journals
 ======
+<b>[XFi: Cross-technology IoT Data Collection via Commodity WiFi.](http://liux4189.github.io/publications/XFi)</b> <br> 
+<b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
+<i>The 28th IEEE International Conference on Network Protocols</i>. <b> (ACM ICNP’20) </b>. <br>
+[[PDF]](https://liux4189.github.io/files/XFi_Icnp_CameraReady.pdf) [[Demo]](https://youtu.be/DomGy6Az8ew)
+
 <b>[LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.](http://liux4189.github.io/publications/LTE2B)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
 <i>17th ACM Conference on Embedded Networked Sensor Systems</i>. <b> (ACM Sensys’19) </b>. <br>
