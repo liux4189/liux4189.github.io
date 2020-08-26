@@ -11,4 +11,4 @@ Wireless technologies are increasingly diversified to serve various Internet-of-
 We implement XFi on commodity devices (e.g., RTL8812au, CC2650, and SX1280). Our comprehensive evaluation demonstrates that XFi can collect data from 8 IoT devices in parallel with over 97% accuracy, offering reliable cross-technology data collection.
 
 ## Demo
-<iframe width="560" height="315" src="https://youtu.be/bWZHmnTF98U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWZHmnTF98U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
