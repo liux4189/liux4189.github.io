@@ -13,6 +13,12 @@ e.g, WiFi, LTE, Bluetooth, ZigBee and Lora. The ultimate goal is to <b>achieve s
 My research covers both physical-layer CTC designs (e.g., signal processing and wireless communications) and various CTC applications. 
 I develop CTC techniques on the commodity devices and several of them have been proved to be commercially viable in the real applications. 
 
+![]({{site.url}}{{site.baseurl}}/images/XFi.JPG){: .align-left}
+<b>XFi: Cross-technology IoT Data Collection via Commodity WiFi.</b> <br> 
+With software upgrades, mobile devices (e.g., smartphone) can directly collect data from heterogeneous IoT devices (e.g., ZigBee and LoRa). XFi is the design that enable CTC from narrowband IoT radios to <i>commodity</i> WiFi. 
+[[Project]](http://liux4189.github.io/publications/XFi)
+{:style="clear: left"}
+
 ![]({{site.url}}{{site.baseurl}}/images/lte2b.jpg){: .align-left}
 <b>LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.</b> <br> 
 LTE2B enables WAN/WLAN devices, e.g., LTE smartphone, WiFi access points to directly share data to low-power IoT devices, e.g., Bluetooth and ZigBee. The key intellectual merit of 
