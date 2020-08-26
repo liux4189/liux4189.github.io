@@ -15,7 +15,7 @@ I develop CTC techniques on the commodity devices and several of them have been 
 
 ![]({{site.url}}{{site.baseurl}}/images/XFi.JPG){: .align-left}
 <b>XFi: Cross-technology IoT Data Collection via Commodity WiFi.</b> <br> 
-With software upgrades, mobile devices (e.g., smartphone) can directly collect data from heterogeneous IoT devices (e.g., ZigBee and LoRa) using their WiFi interface. XFi is the first design that enables CTC from narrowband IoT radios to <i>commodity</i> WiFi. 
+With prposed signal processing technique, mobile devices (e.g., smartphone) can directly collect data from heterogeneous IoT devices (e.g., ZigBee and LoRa) using their WiFi interface. XFi is the first design that enables CTC from narrowband IoT radios to <i>commodity</i> WiFi. 
 [[Project]](http://liux4189.github.io/publications/XFi)
 {:style="clear: left"}
 
