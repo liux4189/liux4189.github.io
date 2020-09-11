@@ -8,7 +8,7 @@ header:
 
 Projects in CTC
 ======
-Cross-Technology Communication (CTC) is a new IoT network paradigm that provides direct interconnectivity and cooperations among heterogeneous wireless technologies (e.g, WiFi, LTE, Bluetooth, ZigBee and LoRa). The ultimate goal is to achieve seamless connections between heterogeneous wireless devices with only software update. To achieve this, we need to address the incompatibile PHY/MAC of different wireless standards. <b>(Please Find more information in our NSF project sites: http://www-users.cselabs.umn.edu/~liux4189/.)</b>
+Cross-Technology Communication (CTC) is a new IoT network paradigm that provides direct interconnectivity and cooperations among heterogeneous wireless technologies (e.g, WiFi, LTE, Bluetooth, ZigBee and LoRa). The ultimate goal is to achieve seamless connections between heterogeneous wireless devices with only software update. To achieve this, we need to address the incompatibile PHY/MAC of different wireless standards. <b>(Please Find more information in our NSF project sites:[[Project]](http://www-users.cselabs.umn.edu/~liux4189/)</b>
 
 My research covers both physical-layer CTC designs (e.g., signal processing and wireless communications) and various CTC applications. 
 I develop CTC techniques on the commodity devices and several of them have been proved to be commercially viable in the real applications. 
