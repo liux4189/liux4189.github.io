@@ -12,13 +12,12 @@ redirect_from:
 
 * I am a Ph.D. student in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
   I am also collaborating with Alibaba’s local life service group to push our research projects from the lab into the market. 
-* I received my Bachelor’s and Master's degree in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). 
 
 Research Interests
 ======
 * Internet-of-things <br>
   --- Cross-Technology Communication
-* Wireless Network 
+* Wireless Sening & Networking
 * Embedded System
 
 Contact
