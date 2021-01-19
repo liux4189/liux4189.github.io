@@ -17,8 +17,12 @@ Research Interests
 ======
 * Internet-of-things <br>
   --- Cross-Technology Communication
-* Wireless Sening & Networking
+* Wireless Sening & Networking (e.g., mmWave radar)
 * Embedded System
+
+Recent News
+======
+Jan 2021. Our paper "WiBeacon" was accepted to MobiCom 2021. WiBeacon is the first cross-technology design that acheive service-level compatibility at both WiFi and Bluetooth. The software for making WiFi AP iBeacon-compatible is available [here](https://github.com/liux4189/WiBeacon). 
 
 Contact
 ======
