@@ -22,7 +22,7 @@ Research Interests
 
 Recent News
 ======
-Jan 2021. Our paper "WiBeacon" was accepted to MobiCom 2021. WiBeacon is the first cross-technology design that acheive service-level compatibility at both WiFi and Bluetooth. The software for making WiFi AP iBeacon-compatible is available [here](https://github.com/liux4189/WiBeacon). 
+Jan 2021. Our paper "WiBeacon" was accepted to [MobiCom 2021](https://www.sigmobile.org/mobicom/2021/). WiBeacon is the first cross-technology design that acheive service-level compatibility at both WiFi and Bluetooth. The software for making WiFi AP iBeacon-compatible is available [here](https://github.com/liux4189/WiBeacon). 
 
 Contact
 ======
