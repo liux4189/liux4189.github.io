@@ -9,7 +9,7 @@ Conferences and Journals
 <b>[WiBeacon: Expanding BLE Location-based Services via WiFi.](http://liux4189.github.io/publications/WiBeacon)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
 <i>The 27th Annual International Conference On Mobile Computing And Networking</i>. <b> (ACM MobiCom’21) </b>. 
-[[PDF]](https://liux4189.github.io/files/WiBeacon_MobiCom_CameraReady.pdf) [[Demo]](https://youtu.be/DomGy6Az8ew)
+[[PDF]](https://liux4189.github.io/files/WiBeacon_MobiCom_CameraReady.pdf) [[Demo]](https://youtu.be/83EfK-wxv8M)
 
 <b>[XFi: Cross-technology IoT Data Collection via Commodity WiFi.](http://liux4189.github.io/publications/XFi)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
