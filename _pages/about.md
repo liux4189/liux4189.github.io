@@ -10,15 +10,13 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
-  I am also collaborating with Alibaba’s local life service group to push our research projects from the lab into the market. 
-
+* I am a research scientist at Bosch Sunnyvale, CA. I graduated with a Ph.D. degree in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+  
 Research Interests
 ======
-* Internet-of-things <br>
-  --- Cross-Technology Communication
-* Wireless Sening & Networking (e.g., mmWave radar)
-* Embedded System
+* Wireless Sensing (mmWave, UWB)
+* Cross-Technology Communication
+* Multi-model Machine Learning
 
 Recent News
 ======
