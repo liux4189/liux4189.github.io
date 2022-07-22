@@ -27,5 +27,4 @@ Aug 2020. Our paper "XFi: Cross-technology IoT Data Collection via Commodity WiF
 Contact
 ======
 liux4189@umn.edu <br>
-4-204B, Kenneth H. Keller Hall200 Union St SE, Minneapolis, MN 55455
-
+384 Santa Trinita Ave, Sunnyvale, CA 94085
