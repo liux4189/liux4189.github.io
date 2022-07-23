@@ -6,17 +6,17 @@ author_profile: true
 
 Conferences and Journals
 ======
-<b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars (To appear)</b><br>
+<b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars </b><br>
 Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu
-The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) 
+The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) To appear
 
-<b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion (To appear)</b><br>
+<b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion </b><br>
 Hao Li,  <b>RuoFeng Liu</b>, Shuai Wang, Wenchao Jiang, Chris Xiaoxuan Lu <br>
-IEEE International Conference on Sensing, Communication, and Networking (SECON'22)
+IEEE International Conference on Sensing, Communication, and Networking (SECON'22) To appear
 
-<b>VisBLE: Vision-Enhanced BLE Device Tracking (To appear)</b><br>
+<b>VisBLE: Vision-Enhanced BLE Device Tracking </b><br>
 Wenchao Jiang, FengLi, Luoyu Mei, <b>Ruofeng Liu</b>, Shuai wang <br>
-IEEE International Conference on Sensing, Communication, and Networking (SECON'22) 
+IEEE International Conference on Sensing, Communication, and Networking (SECON'22) To appear
   
 <b>[WiBeacon: Expanding BLE Location-based Services via WiFi.](http://liux4189.github.io/publications/WiBeacon)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
