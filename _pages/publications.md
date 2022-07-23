@@ -10,11 +10,11 @@ Conferences and Journals
 Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu
 The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) 
 
-<b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion(To appear)</b><br>
+<b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion (To appear)</b><br>
 Hao Li,  <b>RuoFeng Liu</b>, Shuai Wang, Wenchao Jiang, Chris Xiaoxuan Lu <br>
 IEEE International Conference on Sensing, Communication, and Networking (SECON'22)
 
-<b>VisBLE: Vision-Enhanced BLE Device Tracking(To appear)</b><br>
+<b>VisBLE: Vision-Enhanced BLE Device Tracking (To appear)</b><br>
 Wenchao Jiang, FengLi, Luoyu Mei, <b>Ruofeng Liu</b>, Shuai wang <br>
 IEEE International Conference on Sensing, Communication, and Networking (SECON'22) 
   
