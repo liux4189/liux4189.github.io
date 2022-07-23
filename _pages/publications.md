@@ -6,6 +6,11 @@ author_profile: true
 
 Conferences and Journals
 ======
+<b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars (To appear)</b><br>
+Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu
+The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) 
+
+  
 <b>[WiBeacon: Expanding BLE Location-based Services via WiFi.](http://liux4189.github.io/publications/WiBeacon)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
 <i>The 27th Annual International Conference On Mobile Computing And Networking</i>. <b> (ACM MobiCom’21) </b>. 
