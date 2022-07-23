@@ -8,15 +8,15 @@ Conferences and Journals
 ======
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars </b><br>
 Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu
-The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) To appear
+The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) 
 
 <b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion </b><br>
 Hao Li,  <b>RuoFeng Liu</b>, Shuai Wang, Wenchao Jiang, Chris Xiaoxuan Lu <br>
-IEEE International Conference on Sensing, Communication, and Networking (SECON'22) To appear
+IEEE International Conference on Sensing, Communication, and Networking (SECON'22) 
 
 <b>VisBLE: Vision-Enhanced BLE Device Tracking </b><br>
 Wenchao Jiang, FengLi, Luoyu Mei, <b>Ruofeng Liu</b>, Shuai wang <br>
-IEEE International Conference on Sensing, Communication, and Networking (SECON'22) To appear
+IEEE International Conference on Sensing, Communication, and Networking (SECON'22) 
   
 <b>[WiBeacon: Expanding BLE Location-based Services via WiFi.](http://liux4189.github.io/publications/WiBeacon)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
