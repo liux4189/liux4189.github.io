@@ -25,6 +25,11 @@ Jan 2021. Our paper "WiBeacon" was accepted to [MobiCom 2021](https://www.sigmob
 <br>
 Aug 2020. Our paper "XFi: Cross-technology IoT Data Collection via Commodity WiFi" was accepted to [ICNP 2020](https://icnp20.cs.ucr.edu/). The paper is available [here](https://liux4189.github.io/files/XFi_Icnp_CameraReady.pdf). Check out talk at ICNP [here](https://youtu.be/-z16odpf_eg). 
 
+Service
+======
+PC member: icpads 2021, 2022
+Reviewer: ICC'21, SECON'22, TMC, IEEE Systems Journal, IEEE Access, JPDC 
+
 Contact
 ======
 liux4189@umn.edu <br>
