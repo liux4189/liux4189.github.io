@@ -27,8 +27,8 @@ Aug 2020. Our paper "XFi: Cross-technology IoT Data Collection via Commodity WiF
 
 Service
 ======
-PC member: icpads 2021, 2022
-Reviewer: ICC'21, SECON'22, TMC, IEEE Systems Journal, IEEE Access, JPDC 
+* PC member: icpads 2021, 2022
+* Reviewer: ICC'21, SECON'22, TMC, IEEE Systems Journal, IEEE Access, JPDC 
 
 Contact
 ======
