@@ -20,6 +20,7 @@ Research Interests
 
 Recent News
 ======
+Jan 2023.  Our Wi-Fi 6 measuremet paper is accepted in Sigmetrics 2023. The details will come soon! 
 July 2022. Three wireless sensing works got accepted. One accepted in UbiComp 2022 and two accepted in SECON 2022.<br>
 Jan 2021. Our paper "WiBeacon" was accepted to [MobiCom 2021](https://www.sigmobile.org/mobicom/2021/). WiBeacon is the first cross-technology design that acheives service-level compatibility at both WiFi and Bluetooth. The software for making WiFi AP iBeacon-compatible is available [here](https://github.com/liux4189/WiBeacon). 
 <br>
