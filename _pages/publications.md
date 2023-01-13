@@ -7,11 +7,11 @@ author_profile: true
 Conferences and Journals
 ======
 <b>A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security</b><br>
-<b>Ruofeng Liu</b>, Nakjung Choi
+<b>Ruofeng Liu</b>, Nakjung Choi<br>
 The 2023 ACM SIGMETRICS conference (To appear)
 
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars </b><br>
-Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu
+Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu <br>
 The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) 
 [[PDF]](https://arxiv.org/abs/2207.07896)
 
