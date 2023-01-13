@@ -16,7 +16,8 @@ Research Interests
 ======
 * Wireless Sensing (mmWave, UWB)
 * Cross-Technology Communication
-* Multi-model Machine Learning
+* Multi-modal Machine Learning
+* Network Performance Measurement
 
 Recent News
 ======
