@@ -12,8 +12,7 @@ The 2023 ACM SIGMETRICS conference (To appear)
 
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars </b><br>
 Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu <br>
-The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) 
-[[PDF]](https://arxiv.org/abs/2207.07896)
+The ACM international joint conference on pervasive and ubiquitous computing (UbiComp'22) [[PDF]](https://arxiv.org/abs/2207.07896)
 
 <b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion </b><br>
 Hao Li,  <b>Ruofeng Liu</b>, Shuai Wang, Wenchao Jiang, Chris Xiaoxuan Lu <br>
