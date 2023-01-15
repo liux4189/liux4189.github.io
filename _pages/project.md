@@ -17,6 +17,12 @@ Projects in CTC
 ======
 Cross-Technology Communication (CTC) is a new IoT network paradigm that provides direct interconnectivity and cooperations among heterogeneous wireless technologies (e.g, WiFi, LTE, Bluetooth, ZigBee and LoRa), achieving seamless connections between heterogeneous wireless devices with only software update. To achieve this, we address the incompatibility of PHY/MAC in heterogeneous wireless devices. My research starts from physical-layer designs using signal processing techniques to novel CTC applications. CTC is proved technically feasbile on commodity devices and  commercially viable in the real applications. 
 
+![]({{site.url}}{{site.baseurl}}/images/WiBeacon.JPG){: .align-left}
+<b>WiBeacon: Expanding BLE Location-based Services via WiFi.</b> <br> 
+WiBeaon repurposes billions of commodity Wi-Fi infrastructure to serve as the virtual Bluetooth beacon that provide low-cost, scalable, and easy-to-maintain location services for Bluetooth devices. 
+[[Project]](http://liux4189.github.io/publications/WiBeacon)
+{:style="clear: left"}
+
 ![]({{site.url}}{{site.baseurl}}/images/XFi.JPG){: .align-left}
 <b>XFi: Cross-technology IoT Data Collection via Commodity WiFi.</b> <br> 
 With XFi, mobile devices (e.g., smartphone) can directly collect data from heterogeneous IoT devices (e.g., ZigBee and LoRa) using their WiFi interface. XFi is the first design that enables CTC from narrowband IoT radios to <i>commodity</i> WiFi. 
