@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/WiBeacon
 citation: '<b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <i>The 27th Annual International Conference On Mobile Computing And Networking </i>. <b>(ACM MobiCom 2021)</b>.'
 ---
-[[PDF]](https://liux4189.github.io/files/XFi_Icnp_CameraReady.pdf) [[Demo]](https://youtu.be/bWZHmnTF98U)
+[[PDF]](https://liux4189.github.io/files/WiBeacon_MobiCom_CameraReady.pdf) [[Demo]](https://youtu.be/83EfK-wxv8M)
 ## Abstract
 Despite the popularity of Bluetooth low energy (BLE) location-based services (LBS) in Internet of things applications, large-scale
 BLE LBS are extremely challenging due to the expenses of deploying and maintaining BLE beacons. To alleviate this issue, this work
@@ -21,4 +21,4 @@ as robust as conventional BLE beacons, for 697 users with 150 types
 of smartphones.<br>
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bWZHmnTF98U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/83EfK-wxv8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
