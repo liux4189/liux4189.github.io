@@ -8,19 +8,19 @@ Conferences and Journals
 ======
 <b>A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security</b><br>
 <b>Ruofeng Liu</b>, Nakjung Choi<br>
-The 2023 ACM SIGMETRICS conference (To appear)
+To appear at <i>The 2023 ACM SIGMETRICS conference </i> <b> (SIGMETRICS'23) </b> 
 
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars </b><br>
 Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu <br>
-The ACM international joint conference on pervasive and ubiquitous computing <b>(UbiComp'22)  </b>[[PDF]](https://arxiv.org/abs/2207.07896)
+<i>The ACM international joint conference on pervasive and ubiquitous computing <b>(UbiComp'22)  </b>[[PDF]](https://arxiv.org/abs/2207.07896)
 
 <b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion </b><br>
 Hao Li,  <b>Ruofeng Liu</b>, Shuai Wang, Wenchao Jiang, Chris Xiaoxuan Lu <br>
-IEEE International Conference on Sensing, Communication, and Networking <b>(SECON'22) </b>
+<i>IEEE International Conference on Sensing, Communication, and Networking </i>  <b>(SECON'22) </b>
 
 <b>VisBLE: Vision-Enhanced BLE Device Tracking </b><br>
 Wenchao Jiang, FengLi, Luoyu Mei, <b>Ruofeng Liu</b>, Shuai wang <br>
-IEEE International Conference on Sensing, Communication, and Networking  <b>(SECON'22) </b>
+<i> IEEE International Conference on Sensing, Communication, and Networking </i> <b>(SECON'22) </b>
   
 <b>[WiBeacon: Expanding BLE Location-based Services via WiFi.](http://liux4189.github.io/publications/WiBeacon)</b> <br> 
 <b>Ruofeng Liu</b>, Zhimeng Yin, Wenchao Jiang, Tian He. <br>
