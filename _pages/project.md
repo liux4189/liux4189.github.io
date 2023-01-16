@@ -18,7 +18,7 @@ This is the first performance measurement of Wi-Fi 6 using real
 experiments with a focus on multi-client scenarios. The results reveal the impact of the new
 channel access mechanisms (i.e., OFDMA and TWT) on the spectrum efficiency, energy consumption, latency,
 and network security. 
-[[Project]](http://liux4189.github.io/publications/WiBeacon)
+[[SIGMETRICS'23]](http://liux4189.github.io) 
 {:style="clear: left"}
 
 
@@ -29,20 +29,20 @@ Cross-Technology Communication (CTC) is a new IoT network paradigm that provides
 ![]({{site.url}}{{site.baseurl}}/images/WiBeacon.jpg){: .align-left}
 <b>WiBeacon: Expanding BLE Location-based Services via WiFi.</b> <br> 
 WiBeaon repurposes billions of commodity Wi-Fi infrastructure to serve as the virtual Bluetooth beacon that provide low-cost, scalable, and easy-to-maintain location services for Bluetooth devices. 
-[[Project]](http://liux4189.github.io/publications/WiBeacon)
+[[Project]](http://liux4189.github.io/publications/WiBeacon) [[MobiCom'21]](https://liux4189.github.io/files/WiBeacon_MobiCom_CameraReady.pdf)
 {:style="clear: left"}
 
 ![]({{site.url}}{{site.baseurl}}/images/XFi.JPG){: .align-left}
 <b>XFi: Cross-technology IoT Data Collection via Commodity WiFi.</b> <br> 
 With XFi, mobile devices (e.g., smartphone) can directly collect data from heterogeneous IoT devices (e.g., ZigBee and LoRa) using their WiFi interface. XFi is the first design that enables CTC from narrowband IoT radios to <i>commodity</i> WiFi. 
-[[Project]](http://liux4189.github.io/publications/XFi)
+[[Project]](http://liux4189.github.io/publications/XFi) [[ICNP'19]](https://liux4189.github.io/files/XFi_Icnp_CameraReady.pdf)
 {:style="clear: left"}
 
 ![]({{site.url}}{{site.baseurl}}/images/lte2b.jpg){: .align-left}
 <b>LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints.</b> <br> 
 LTE2B enables WAN/WLAN devices, e.g., LTE smartphone, WiFi access points to directly share data to low-power IoT devices, e.g., Bluetooth and ZigBee. The key intellectual merit of 
 LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmitters to accurately produce Bluetooth and ZigBee waveform. 
-[[Project]](http://liux4189.github.io/publications/LTE2B)
+[[Project]](http://liux4189.github.io/publications/LTE2B) [[Sensys'19]](https://liux4189.github.io/files/LTE2B_Sensys_CameraReady.pdf) 
 {:style="clear: left"}
 
 <br>
@@ -50,7 +50,7 @@ LTE2B is <i>Time-domain Emulation</i> which allows WAN/WLAN transmitters to accu
 <b>BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation.</b> <br>
 BlueBee is a CTC technique from Bluetooth to ZigBee. This project proposes physical-layer CTC scheme in which by carefully choosing the payload for one wireless technology, e.g., Bluetooth,
 the transmitter can create legitimate waveform of another wireless technology, e.g., ZigBee. Physical-layer CTC opens the door for the communications between heterogeneous
-devices with high data rates. 
+devices with high data rates. [[Sensys'17]](https://dl.acm.org/citation.cfm?id=3131678)
 {:style="clear: left"}
 
 <br>
