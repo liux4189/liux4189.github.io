@@ -16,6 +16,13 @@ This work studies the problem of cross-modal human re-identification between cam
 [[Ubicomp'22]]([http://liux4189.github.io](https://arxiv.org/abs/2207.07896)) 
 {:style="clear: left"}
 
+![]({{site.url}}{{site.baseurl}}/images/SECON22.jpg){: .align-left}
+<b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion.</b> <br> 
+We propose a feature fusion network of mmWave radar and computer vision based on attention mechanism to robustly detect living pedestrians in autonomous driving. 
+[[SECON'21]](https://liux4189.github.io/files/SECON22_CameraReady.pdf)
+{:style="clear: left"}
+
+
 Projects in Network Measurement
 ======
 ![]({{site.url}}{{site.baseurl}}/images/WiFi6.jpg){: .align-left}
