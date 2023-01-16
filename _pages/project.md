@@ -25,6 +25,7 @@ We propose a feature fusion network of mmWave radar and computer vision based on
 
 Projects in Network Measurement
 ======
+How the physical and MAC layer of wireless protocols impact the overall performance of the application and user experience about a mobile device? My research investigates the issues with in-depth measurements.   
 ![]({{site.url}}{{site.baseurl}}/images/WiFi6.jpg){: .align-left}
 <b>A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security.</b> <br> 
 This is the first performance measurement of Wi-Fi 6 using real
