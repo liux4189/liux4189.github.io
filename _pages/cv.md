@@ -17,6 +17,15 @@ Education
 
 Work experience
 ======
+* 2022 - Now: Research Engineer
+  * Robert Bosch
+  * Duties: UWB Radar
+* June-Sep 2021: Research Intern
+  * Nokia Bell Labs
+  * Duties: Wi-Fi 6 Measurement and Slicing Design 
+* Feb-May 2021: Reseach Intern 
+  * Samsung Research America
+  * Duties: Acoustic sensing
 * 2016-2021: Research Assistant
   * University of Minnesota
   * Duties included: Research in Cross Technology Communication
