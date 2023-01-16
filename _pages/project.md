@@ -10,6 +10,12 @@ Projects in Wireless Sensing
 ======
 Beyond the communication, wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
 
+![]({{site.url}}{{site.baseurl}}/images/Ubicomp22.jpg){: .align-left}
+<b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars.</b> <br>
+This work studies the problem of cross-modal human re-identification between camera-allowed regions (e.g., streets) and camera-restricted regions (i.e., monitored by mmWave radars). We propose novel signature synthesis algorithm and  cross-modal deep metric learning model. 
+[[Ubicomp'22]]([http://liux4189.github.io](https://arxiv.org/abs/2207.07896)) 
+{:style="clear: left"}
+
 Projects in Network Measurement
 ======
 ![]({{site.url}}{{site.baseurl}}/images/WiFi6.jpg){: .align-left}
