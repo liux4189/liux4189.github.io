@@ -12,6 +12,15 @@ Beyond the communication, wireless radios can be leveraged as a sensor to precei
 
 Projects in Network Measurement
 ======
+![]({{site.url}}{{site.baseurl}}/images/WiFi6.jpg){: .align-left}
+<b>A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security.</b> <br> 
+This is the first performance measurement of Wi-Fi 6 using real
+experiments with a focus on multi-client scenarios. The results reveal the impact of the new
+channel access mechanisms (i.e., OFDMA and TWT) on the spectrum efficiency, energy consumption, latency,
+and network security. 
+[[Project]](http://liux4189.github.io/publications/WiBeacon)
+{:style="clear: left"}
+
 
 Projects in CTC
 ======
