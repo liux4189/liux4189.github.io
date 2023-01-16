@@ -18,7 +18,7 @@ This work studies the problem of cross-modal human re-identification between cam
 
 ![]({{site.url}}{{site.baseurl}}/images/SECON22.jpg){: .align-left}
 <b>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion.</b> <br> 
-We propose a feature fusion network of mmWave radar and computer vision based on attention mechanism to robustly detect living pedestrians in autonomous driving. 
+In autonomous driving, a camera is vulnerable to visual inferences (e.g., billboard with human potraits). We propose a sensor fusion of mmWave radar and vision based on attention mechanism to robustly detect living pedestrians. 
 [[SECON'22]](https://liux4189.github.io/files/SECON22_CameraReady.pdf)
 {:style="clear: left"}
 
