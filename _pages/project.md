@@ -32,7 +32,7 @@ This is the first performance measurement of Wi-Fi 6 using real
 experiments with a focus on multi-client scenarios. The results reveal the impact of the new
 channel access mechanisms (i.e., OFDMA and TWT) on the spectrum efficiency, energy consumption, latency,
 and network security. 
-[[SIGMETRICS'23]](http://liux4189.github.io) 
+[[SIGMETRICS'23]](https://dl.acm.org/doi/10.1145/3579451) [[Data]](https://github.com/liux4189/wifi-ax-measurement)
 {:style="clear: left"}
 
 
