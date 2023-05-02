@@ -11,7 +11,7 @@ Conferences and Journals
 <i>The 2023 ACM SIGMETRICS conference </i> <b> (SIGMETRICS'23) </b> [[PDF]](https://liux4189.github.io/files/sigmetric23_wifi6_cameraready.pdf) [[Data/Code]](https://github.com/liux4189/wifi-ax-measurement)
 
 
-<b> Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud </b></br>
+<b> Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud </b><br>
 Dongjiang Cao, Shuai Wang, <b>Ruofeng Liu (corresponding auhor)</b>, Wenchao Jiang, Tianshun Yao, and Chris xiaoxuanLu <br>
 To appear at <i>The ACM international joint conference on pervasive and ubiquitous computing</i> <b>(UbiComp'23) </b>
   
