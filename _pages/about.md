@@ -21,7 +21,7 @@ Research Interests
 
 Recent News
 ======
-Feb 2023.  Our mmWave human parsing work is accepted in [Ubicomp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). The paper is available [online].(https://dl.acm.org/doi/abs/10.1145/3580779) <br>
+Feb 2023.  Our mmWave human parsing work is accepted in [Ubicomp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). The paper is available [online](https://dl.acm.org/doi/abs/10.1145/3580779). <br>
 Jan 2023.  Our Wi-Fi 6 measurement paper is accepted in [SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/). The paper is available at [ACM](https://dl.acm.org/doi/10.1145/3579451) and [[PDF]](https://liux4189.github.io/files/sigmetric23_wifi6_cameraready.pdf). The data and code are open source at [[Data/Code]](https://github.com/liux4189/wifi-ax-measurement). <br>
 July 2022. Three wireless sensing works got accepted. One accepted in UbiComp 2022 and two accepted in SECON 2022.<br>
 Jan 2021. Our paper "WiBeacon" was accepted to [MobiCom 2021](https://www.sigmobile.org/mobicom/2021/). WiBeacon is the first cross-technology design that acheives service-level compatibility at both WiFi and Bluetooth. The software for making WiFi AP iBeacon-compatible is available [here](https://github.com/liux4189/WiBeacon). 
