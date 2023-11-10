@@ -6,7 +6,7 @@ header:
   image: header-about.jpg
 ---
 
-Projects in Wireless Sensing
+Wireless Sensing
 ======
 Beyond the communication, wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
 
@@ -23,7 +23,7 @@ In autonomous driving, a camera is vulnerable to visual inferences (e.g., billbo
 {:style="clear: left"}
 
 
-Projects in Network Measurement
+Network performance & Security
 ======
 How the physical and MAC layer of wireless protocols impact the overall performance of the application and user experience about a mobile device? My research investigates the issues with in-depth measurements.   
 ![]({{site.url}}{{site.baseurl}}/images/WiFi6.jpg){: .align-left}
@@ -36,7 +36,7 @@ and network security.
 {:style="clear: left"}
 
 
-Projects in CTC
+Wireless Network
 ======
 Cross-Technology Communication (CTC) is a new IoT network paradigm that provides direct interconnectivity and cooperations among heterogeneous wireless technologies (e.g, WiFi, LTE, Bluetooth, ZigBee and LoRa), achieving seamless connections between heterogeneous wireless devices with only software update. To achieve this, we address the incompatibility of PHY/MAC in heterogeneous wireless devices. My research starts from physical-layer designs using signal processing techniques to novel CTC applications. CTC is proved technically feasbile on commodity devices and  commercially viable in the real applications. 
 
