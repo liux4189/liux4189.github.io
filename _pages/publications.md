@@ -8,12 +8,12 @@ Conferences
 ======
 
 <b> [NSDI'24] NN-Defined Modulator: Reconfigurable and Portable Software Modulator on IoT Gateways</b><br>
-Jiazhao Wang, Wenchao Jiang, <b>Ruofeng Liu</b>, Bin Hu, Demin Gao, and Shuai Wang </br>
+Jiazhao Wang, Wenchao Jiang, <b>Ruofeng Liu</b>, Bin Hu, Demin Gao, and Shuai Wang <br>
 <i> To appear at the 21st USENIX Symposium on Networked Systems Design and Implementation </i>  <b> (NSDI '24) </b> 
 
 <b> [Sensys'23] Egocentric Human Pose Estimation using Head-mounted mmWave Radar</b><br>
-Wenwei Li*, <b>Ruofeng Liu* (co-primary author)</b>, Shuai Wang, Dongjiang Cao, and Wenchao Jiang </br>
-<i>  The 21th ACM Conference on Embedded Networked Sensor Systems  </i>   <b> ([Sensys'23) </b>  [[PDF]](https://liux4189.github.io/files/mmEgo_sensys23.pdf) [[Data/Code]](https://github.com/yenanjing/mmEgo_Rev)
+Wenwei Li*, <b>Ruofeng Liu* (co-primary author)</b>, Shuai Wang, Dongjiang Cao, and Wenchao Jiang <br>
+<i>  The 21th ACM Conference on Embedded Networked Sensor Systems  </i>   <b> (Sensys'23) </b>  [[PDF]](https://liux4189.github.io/files/mmEgo_sensys23.pdf) [[Data/Code]](https://github.com/yenanjing/mmEgo_Rev)
 
 <b> [SIGMETRICS'23] A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security</b>  <br>
 <b>Ruofeng Liu</b>, Nakjung Choi <br>
