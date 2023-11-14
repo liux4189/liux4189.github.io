@@ -13,10 +13,10 @@ Jiazhao Wang, Wenchao Jiang, <b>Ruofeng Liu</b>, Bin Hu, Demin Gao, and Shuai Wa
 
 <b> [Sensys'23] Egocentric Human Pose Estimation using Head-mounted mmWave Radar</b><br>
 Wenwei Li*, <b>Ruofeng Liu* (co-primary author)</b>, Shuai Wang, Dongjiang Cao, and Wenchao Jiang </br>
-<i>  The 21th ACM Conference on Embedded Networked Sensor Systems (SenSys 2023) </i>   <b> ([Sensys'23) </b>  [[PDF]](https://liux4189.github.io/files/mmEgo_sensys23.pdf) [[Data/Code]](https://github.com/yenanjing/mmEgo_Rev)
+<i>  The 21th ACM Conference on Embedded Networked Sensor Systems  </i>   <b> ([Sensys'23) </b>  [[PDF]](https://liux4189.github.io/files/mmEgo_sensys23.pdf) [[Data/Code]](https://github.com/yenanjing/mmEgo_Rev)
 
-<b> [SIGMETRICS'23] A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security</b><br>
-<b>Ruofeng Liu</b>, Nakjung Choi<br>
+<b> [SIGMETRICS'23] A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security</b>  <br>
+<b>Ruofeng Liu</b>, Nakjung Choi <br>
 <i>The 2023 ACM SIGMETRICS conference </i> <b> (SIGMETRICS'23) </b> [[PDF]](https://liux4189.github.io/files/sigmetric23_wifi6_cameraready.pdf) [[Data/Code]](https://github.com/liux4189/wifi-ax-measurement)
 
 <b> [UbiComp'23] Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud </b><br>
