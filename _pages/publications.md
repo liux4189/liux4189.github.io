@@ -12,8 +12,8 @@ Jiazhao Wang, Wenchao Jiang, <b>Ruofeng Liu</b>, Bin Hu, Demin Gao, and Shuai Wa
 <i> To appear at the 21st USENIX Symposium on Networked Systems Design and Implementation </i>  <b> (NSDI '24) </b> 
 
 <b> [Sensys'23] Egocentric Human Pose Estimation using Head-mounted mmWave Radar</b><br>
-Wenwei Li*, <b>Ruofeng Liu* (co-primary author)</b>, Shuai Wang, Dongjiang Cao, and Wenchao Jiang, “Egocentric Human Pose Estimation using Head-mounted mmWave Radar </br>
-<i>  The 21th ACM Conference on Embedded Networked Sensor Systems (SenSys 2023) </i>  <b> (NSDI '24) </b> 
+Wenwei Li*, <b>Ruofeng Liu* (co-primary author)</b>, Shuai Wang, Dongjiang Cao, and Wenchao Jiang </br>
+<i>  The 21th ACM Conference on Embedded Networked Sensor Systems (SenSys 2023) </i>   <b> ([Sensys'23) </b>  [[PDF]](https://liux4189.github.io/files/mmEgo_sensys23.pdf) [[Data/Code]](https://github.com/yenanjing/mmEgo_Rev)
 
 <b> [SIGMETRICS'23] A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security</b><br>
 <b>Ruofeng Liu</b>, Nakjung Choi<br>
@@ -59,6 +59,10 @@ Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Zhijun Li, Tian He. <br>
 
 Journals
 =======
+<b>[TOSN]End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles.</b> <br> 
+Shuai Wang, Luoyu Mei, Zhimeng Yin, Hao Li, <b>Ruofeng Liu (corresponding author)</b>, Wenchao Jiang, Chris Xiaoxuan Lu <br>
+<i>ACM Transactions on Sensor Networks </i>. <b> (TOSN’23) </b>.
+[[PDF]](https://dl.acm.org/doi/abs/10.1145/3628453)
 
 <b>[TON]Boosting the Bitrate of Cross-Technology Communication on Commodity IoT Devices.</b> <br> 
 Wenchao Jiang, Zhimeng Yin, <b>Ruofeng Liu</b>, Zhijun Li, Tian He. <br>
