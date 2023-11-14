@@ -13,7 +13,7 @@ Conferences and Journals
 
 <b> Human Parsing with Joint Learning for Dynamic mmWave Radar Point Cloud </b><br>
 Dongjiang Cao, Shuai Wang, <b>Ruofeng Liu (corresponding auhor)</b>, Wenchao Jiang, Tianshun Yao, and Chris xiaoxuanLu <br>
-<i>The ACM international joint conference on pervasive and ubiquitous computing</i> <b>(UbiComp'23).  </b>  [[PDF]](https://liux4189.github.io/files/Parsing_Ubicom23.pdf)
+<i>The ACM international joint conference on pervasive and ubiquitous computing</i> <b>(UbiComp'23).  </b>  [[PDF]](https://liux4189.github.io/files/Parsing_Ubicomp23.pdf)
   
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars </b><br>
 Dongjiang Cao, <b>Ruofeng Liu</b>, Hao Li, Shuai Wang, Wenchao Jiang, and Chris xiaoxuanLu <br>
