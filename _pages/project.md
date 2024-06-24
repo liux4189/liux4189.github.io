@@ -8,7 +8,14 @@ header:
 
 Wireless Sensing
 ======
-Beyond the communication, wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
+Wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
+
+![]({{site.url}}{{site.baseurl}}/images/Ubicomp22.jpg){: .align-left}
+<b>Egocentric Human Pose Estimation using Head-mounted mmWave Radar.</b> <br>
+We present mmEgo, the first egocentric human pose estimation design using a head-mounted mmWave radar, which offers ubiquitous pose tracking with high mobility, robustness to complex environments, and privacy preservation. To tackle the unique challenges of radar sensing from the egocentric perspective (e.g., random radar motion and the scarcity of information on the lower body), we propose a novel mmWave radar and IMU fusion design.
+[[Ubicomp'22]]([http://liux4189.github.io](https://arxiv.org/abs/2207.07896)) 
+{:style="clear: left"}
+
 
 ![]({{site.url}}{{site.baseurl}}/images/Ubicomp22.jpg){: .align-left}
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars.</b> <br>
