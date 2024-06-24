@@ -2,6 +2,8 @@
 title: "Ph.D opportunities"
 permalink: /opportunity/
 author_profile: true
+header:
+  image: header-opportunity.png
 ---
 
 ## About me 
