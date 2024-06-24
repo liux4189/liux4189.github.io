@@ -6,7 +6,7 @@ header:
   image: header-about.jpg
 ---
 
-Wireless Sensing
+Sensing and AI
 ======
 Wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
 
