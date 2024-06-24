@@ -27,6 +27,6 @@ I am looking for self-motivated young researchers to conduct world-class researc
 ## About MSU
 Founded in 1855, Michigan State University (MSU) is a leading public research university located in East Lansing, Michigan. MSU is renowned for its commitment to academic excellence, world-class research, and innovative teaching.  MSU is ranked among the top 100 global universities by the Academic Ranking of World Universities (ARWU) and holds #60 positions in U.S. News & World Report’s 2024 edition of Best Colleges. Home to over 50,000 students from all 50 states and more than 130 countries, MSU prides itself on its inclusive and diverse community. 
 
-How to apply 
+## How to apply 
 If you are interested in working with me, please send your CV and unofficial transcript to my email (liux4189@gmail.com). For more information about my research, please visit [my homepage](https://liux4189.github.io). 
 
