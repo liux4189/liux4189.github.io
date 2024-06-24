@@ -11,7 +11,7 @@ header:
 Dr. Ruofeng Liu is joining the Computer Science and Engineering (CSE) at Michigan State University (MSU) as an assistant professor in Fall 2024. Before joining MSU, he was a research scientist at Robert Bosch. He received the Ph.D. degree from University of Minnesota. Dr. Liu’s research broadly lies in designing intelligent sensing and wireless communication systems, with a wide range of applications in Internet of things, human computer interaction, and mobile networks. He has rich experience in both academia and industry. He published 15 papers in top conferences including NSDI, MobiCom, IJCAI, Sensys, SIGMETRICS, and UbiComp and journals such as TON, TOSN, and COMST. He was granted 4 US patents. His research innovations were adopted by several companies including Alibaba, Nokia Bell Lab, Samsung Research, and Robert Bosch to solve real-world problems in logistics, automotive, and telecommunication. 
 
 ## Research opportunities
-2 Fully-funded Research Assistant (RA) are available for Spring/Fall 2025. The positions will  focus on the following topics:
+2 fully-funded Research Assistant (RA) are available for Spring/Fall 2025. The positions will  focus on the following topics:
 - Wireless sensing and localization (mmWave radar, UWB,  WiFi, and acoustic)
 - Multimodal sensor systems for embodied AI (Vision, IMU, Wireless)
 - Foundation model/large language model (LLM) for sensors
@@ -19,7 +19,7 @@ Dr. Ruofeng Liu is joining the Computer Science and Engineering (CSE) at Michiga
 - Mobile network (5G/6G communication, measurement) 
 - IoT security and privacy
 
-Demos of the ongoing research projects are available at [Project](https://liux4189.github.io/projects/)
+Demos of the ongoing research projects are available at [Project](https://liux4189.github.io/projects/).
 
 ## Who should apply
 I am looking for self-motivated young researchers to conduct world-class research with me. Preference will be given to people with two types of background:
