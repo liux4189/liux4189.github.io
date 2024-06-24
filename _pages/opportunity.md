@@ -17,12 +17,16 @@ Dr. Ruofeng Liu is joining the Computer Science and Engineering (CSE) at Michiga
 - Mobile network (5G/6G communication, measurement) 
 - IoT security and privacy
 
+Demos of the ongoing research projects are available at [Project](https://liux4189.github.io/projects/)
+
 ## Who should apply
-I am looking for self-motivated young researchers to conduct world-class research with me. Preference will be given to people with two types of background (1) Interested in building SW/HW systems and experienced in signal processing, wireless communication, and embedded systems; (2) Experienced with machine learning and interested in applying cutting-edge ML techniques to address practical problems in real-world systems. 
+I am looking for self-motivated young researchers to conduct world-class research with me. Preference will be given to people with two types of background:
+(1) Interested in building SW/HW systems and experienced in signal processing, wireless communication, and embedded systems
+(2) Experienced with machine learning and interested in applying cutting-edge ML techniques to address practical problems in real-world systems. 
  
 ## About MSU
 Founded in 1855, Michigan State University (MSU) is a leading public research university located in East Lansing, Michigan. MSU is renowned for its commitment to academic excellence, world-class research, and innovative teaching.  MSU is ranked among the top 100 global universities by the Academic Ranking of World Universities (ARWU) and holds #60 positions in U.S. News & World Report’s 2024 edition of Best Colleges. Home to over 50,000 students from all 50 states and more than 130 countries, MSU prides itself on its inclusive and diverse community. 
 
 How to apply 
-If you are interested in working with me, please send your CV and unofficial transcript to my email (liux4189@gmail.com). For more information about my research, please visit https://liux4189.github.io. 
+If you are interested in working with me, please send your CV and unofficial transcript to my email (liux4189@gmail.com). For more information about my research, please visit [my homepage](https://liux4189.github.io). 
 
