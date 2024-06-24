@@ -8,7 +8,7 @@ header:
 
 Sensing and AI
 ======
-I am building novel sensing systems with the emerging sensing techniques (e.g., mmWave radar, UWB, and acoustic). My researc topics find a wide application in the Internet of things, Human computer interaction and autonomous driving.  Technically, I am interested in multi-modal sensor fusion among RF/wireless (e.g., mmWave radar and conventional sensors (e.g., camera and IMU) to address their inherent limitations. 
+I am building novel sensing systems with the emerging sensing techniques (e.g., mmWave radar, UWB, and acoustic). My researc topics find a wide spectrum of applications in human computer interaction, mobile computing and autonomous driving.  Technically, I am interested in multi-modal sensor fusion among RF/wireless (e.g., mmWave radar and conventional sensors (e.g., camera and IMU) to address their inherent limitations. 
 
 ![]({{site.url}}{{site.baseurl}}/images/mmEgo.png){: .align-left}
 <b>Egocentric Human Pose Estimation using Head-mounted mmWave Radar.</b> <br>
@@ -30,8 +30,11 @@ In autonomous driving, a camera is vulnerable to visual inferences (e.g., billbo
 {:style="clear: left"}
 
 
-Network performance & Security
+IoT Network
 ======
+I study the wireless protocols for Internet of things (IoT) network. I am specifically interested in the coexistence of the heterogeneous wireless protocols and applications.   
+
+
 How the physical and MAC layer of wireless protocols impact the overall performance of the application and user experience about a mobile device? My research investigates the issues with in-depth measurements.   
 ![]({{site.url}}{{site.baseurl}}/images/WiFi6.jpg){: .align-left}
 <b>A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security.</b> <br> 
@@ -42,9 +45,6 @@ and network security.
 [[SIGMETRICS'23]](https://dl.acm.org/doi/10.1145/3579451) [[Data]](https://github.com/liux4189/wifi-ax-measurement)
 {:style="clear: left"}
 
-
-Wireless Network
-======
 Cross-Technology Communication (CTC) is a new IoT network paradigm that provides direct interconnectivity and cooperations among heterogeneous wireless technologies (e.g, WiFi, LTE, Bluetooth, ZigBee and LoRa), achieving seamless connections between heterogeneous wireless devices with only software update. To achieve this, we address the incompatibility of PHY/MAC in heterogeneous wireless devices. My research starts from physical-layer designs using signal processing techniques to novel CTC applications. CTC is proved technically feasbile on commodity devices and  commercially viable in the real applications. 
 
 ![]({{site.url}}{{site.baseurl}}/images/WiBeacon.jpg){: .align-left}
