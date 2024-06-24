@@ -10,17 +10,17 @@ Sensing and AI
 ======
 Wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
 
-![]({{site.url}}{{site.baseurl}}/images/Ubicomp22.jpg){: .align-left}
+![]({{site.url}}{{site.baseurl}}/images/mmEgo.png){: .align-left}
 <b>Egocentric Human Pose Estimation using Head-mounted mmWave Radar.</b> <br>
 We present mmEgo, the first egocentric human pose estimation design using a head-mounted mmWave radar, which offers ubiquitous pose tracking with high mobility, robustness to complex environments, and privacy preservation. To tackle the unique challenges of radar sensing from the egocentric perspective (e.g., random radar motion and the scarcity of information on the lower body), we propose a novel mmWave radar and IMU fusion design.
-[[Ubicomp'22]]([http://liux4189.github.io](https://arxiv.org/abs/2207.07896)) 
+[[Sensys'23]](https://liux4189.github.io/files/mmEgo_sensys23.pdf) 
 {:style="clear: left"}
 
 
 ![]({{site.url}}{{site.baseurl}}/images/Ubicomp22.jpg){: .align-left}
 <b>Cross Vision-RF Gait Re-identification with Low-cost RGB-D Cameras and mmWave Radars.</b> <br>
 This work studies the problem of cross-modal human re-identification between camera-allowed regions (e.g., streets) and camera-restricted regions (i.e., monitored by mmWave radars). We propose novel signature synthesis algorithm and  cross-modal deep metric learning model. 
-[[Ubicomp'22]]([http://liux4189.github.io](https://arxiv.org/abs/2207.07896)) 
+[[Ubicomp'22]](https://arxiv.org/abs/2207.07896) 
 {:style="clear: left"}
 
 ![]({{site.url}}{{site.baseurl}}/images/SECON22.jpg){: .align-left}
