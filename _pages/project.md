@@ -8,7 +8,7 @@ header:
 
 Sensing and AI
 ======
-Wireless radios can be leveraged as a sensor to preceive people and environment. My research interest lies in various emerging wireless sensing techniques (e.g., mmWave, UWB, and acoustic) and multi-modal sensor fusion among wireless and heterogeneous sensors (e.g., camera and IMU). 
+I am building novel sensing systems with the emerging sensing techniques (e.g., mmWave radar, UWB, and acoustic). My researc topics find a wide application in the Internet of things, Human computer interaction and autonomous driving.  Technically, I am interested in multi-modal sensor fusion among RF/wireless (e.g., mmWave radar and conventional sensors (e.g., camera and IMU) to address their inherent limitations. 
 
 ![]({{site.url}}{{site.baseurl}}/images/mmEgo.png){: .align-left}
 <b>Egocentric Human Pose Estimation using Head-mounted mmWave Radar.</b> <br>
