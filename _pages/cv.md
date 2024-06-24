@@ -29,13 +29,7 @@ Work experience
 * 2016-2021: Research Assistant
   * University of Minnesota
   * Duties included: Research in Cross Technology Communication
-  * Advisor: Tian He
-
-* 2013-2016: Research Assistant
-  * Northwestern Polytechnical University
-  * Duties included: Develop ISA100 Industrial Sensor Network 
-  * Advisor: Shining Li
-  
+  * Advisor: Tian He  
 Expertises
 ======
 * Wireless Sensing and AI
