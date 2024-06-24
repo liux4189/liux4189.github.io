@@ -23,7 +23,9 @@ Demos of the ongoing research projects are available at [Project](https://liux41
 
 ## Who should apply
 I am looking for self-motivated young researchers to conduct world-class research with me. Preference will be given to people with two types of background:
-(1) Interested in building SW/HW systems and experienced in signal processing, wireless communication, and embedded systems
+
+(1) Interested in building SW/HW systems and experienced in signal processing, wireless communication, and embedded systems.
+
 (2) Experienced with machine learning and interested in applying cutting-edge ML techniques to address practical problems in real-world systems. 
  
 ## About MSU
