@@ -29,7 +29,8 @@ Work experience
 * 2016-2021: Research Assistant
   * University of Minnesota
   * Duties included: Research in Cross Technology Communication
-  * Advisor: Tian He  
+  * Advisor: Tian He
+    
 Expertises
 ======
 * Wireless Sensing and AI
