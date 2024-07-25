@@ -28,8 +28,8 @@ Research Interests
 
 Recent News
 ======
-Apr 2024.  One paper accepted at IJCAI 2024. 
-Sep 2023.  Our work on egocentric human pose estimation using mmWave radar headset is accepted in Sensys 2023 [paper](https://liux4189.github.io/files/mmEgo_sensys23.pdf). 
+Apr 2024.  One paper accepted at IJCAI 2024. <br>
+Sep 2023.  Our work on egocentric human pose estimation using mmWave radar headset is accepted in Sensys 2023 [paper](https://liux4189.github.io/files/mmEgo_sensys23.pdf). <br>
 Feb 2023.  Our mmWave human parsing work is accepted in [Ubicomp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). The paper is available [online](https://dl.acm.org/doi/abs/10.1145/3580779). <br>
 Jan 2023.  Our Wi-Fi 6 measurement paper is accepted in [SIGMETRICS 2023](https://www.sigmetrics.org/sigmetrics2023/). The paper is available at [ACM](https://dl.acm.org/doi/10.1145/3579451) and [[PDF]](https://liux4189.github.io/files/sigmetric23_wifi6_cameraready.pdf). The data and code are open source at [[Data/Code]](https://github.com/liux4189/wifi-ax-measurement). <br>
 July 2022. Three wireless sensing works got accepted. One accepted in UbiComp 2022 and two accepted in SECON 2022.<br>
