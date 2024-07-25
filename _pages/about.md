@@ -10,7 +10,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am a research scientist at Bosch Sunnyvale, CA. I graduated with a Ph.D. degree in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+Opening
+======
+<span style="color:red">Openings: I am looking for self-motivated Ph.D. students starting from 2025Spring/Fall. If you are interested in working with me, feel free to send me your CV to liux4189@gmail.com.  
+</span>
+
+About me 
+======
+* Dr. Ruofeng Liu is an incoming assistant professor at Michigan State University. I was a research scientist at Bosch Research from 2022 to 2024. I graduated with a Ph.D. degree in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
   
 Research Interests
 ======
