@@ -42,5 +42,5 @@ Service
 
 Contact
 ======
-liux4189@umn.edu <br>
+liux4189@gmail.com <br>
 384 Santa Trinita Ave, Sunnyvale, CA 94085
