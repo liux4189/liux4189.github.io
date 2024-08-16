@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* 2022 - Now: Research Engineer
+* Aug. 2024 - Now： Assistant Professor
+   * Michigan State University
+* Mar. 2022 - Aug. 2024 : Research Engineer
   * Robert Bosch
   * Duties: UWB Radar
 * June-Sep 2021: Research Intern
