@@ -12,7 +12,7 @@ redirect_from:
 
 Opening
 ======
-<span style="color:red">Openings: I will join Michigan State University in Fall2024. I am currently looking for self-motivated Ph.D. students starting from 2025Spring/Fall ([opportuniy description]( https://liux4189.github.io/opportunity/), [Appication instruction](https://engineering.msu.edu/academics/majors-degrees/computer-science-phd#admissions)).  If you are interested in working with me, feel free to send me your CV to liux4189@gmail.com.  
+<span style="color:red">Openings: I will join Michigan State University in Fall2024. I am currently looking for self-motivated Ph.D. students starting from 2025Spring/Fall ([opportuniy description]( https://liux4189.github.io/opportunity/), [Application instruction](https://engineering.msu.edu/academics/majors-degrees/computer-science-phd#admissions)).  If you are interested in working with me, feel free to send me your CV to liux4189@gmail.com.  
 </span>
 
 About me 
@@ -45,4 +45,4 @@ Service
 Contact
 ======
 liux4189@gmail.com <br>
-384 Santa Trinita Ave, Sunnyvale, CA 94085
+428 S Shaw Ln, East Lansing, MI 48824
