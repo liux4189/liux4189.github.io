@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Biography
+title: Ruofeng Liu
 header:
   image:"header-about.jpg"
 excerpt: "About me"
