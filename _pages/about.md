@@ -17,7 +17,7 @@ Opening
 
 About me 
 ======
-* Dr. Ruofeng Liu is an incoming assistant professor at Michigan State University. I was a research scientist at Bosch Research from 2022 to 2024. I graduated with a Ph.D. degree in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
+* Dr. Ruofeng Liu is an assistant professor at Michigan State University. I was a research scientist at Bosch Research from 2022 to 2024. I graduated with a Ph.D. degree in Computer Science at the [University of Minnesota](https://twin-cities.umn.edu/), advised by Dr. [Tian He](https://www-users.cs.umn.edu/~tianhe/).
   
 Research Interests
 ======
