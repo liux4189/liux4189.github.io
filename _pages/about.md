@@ -44,5 +44,5 @@ Service
 
 Contact
 ======
-liux4189@gmail.com <br>
+liuruofe@msu.edu <br>
 428 S Shaw Ln, East Lansing, MI 48824
