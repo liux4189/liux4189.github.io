@@ -28,7 +28,7 @@ Research Interests
 
 Recent News
 ======
-Oct 2024.  Our work on cross Radar-Camera person Re-identification was accepted in Sensys 2024. [[paper](https://liux4189.github.io/files/Mission_Sensys24.pdf)]
+Oct 2024.  Our work on cross Radar-Camera person Re-identification was accepted in Sensys 2024. [[paper](https://liux4189.github.io/files/Mission_Sensys24.pdf)]<br>
 Apr 2024.  Two paper accepted at IJCAI 2024 and CIKM 2024. <br>
 Sep 2023.  Our work on egocentric human pose estimation using mmWave radar headset was accepted in Sensys 2023 [paper](https://liux4189.github.io/files/mmEgo_sensys23.pdf). <br>
 Feb 2023.  Our mmWave human parsing work is accepted in [Ubicomp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). The paper is available [online](https://dl.acm.org/doi/abs/10.1145/3580779). <br>
