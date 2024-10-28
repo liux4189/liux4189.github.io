@@ -23,8 +23,8 @@
     },
     {
         "name": "SIGCOMM 2025",
-        "submission_deadline": "2025-01-31",
-        "notification_date": "2025-04-29",
+        "submission_deadline": "2025-02-01",
+        "notification_date": "2025-05-01",
         "conference_dates": {
             "start": "2025-09-08",
             "end": "2025-09-11"
@@ -32,4 +32,18 @@
         "location": "Coimbra, Portugal",
         "link": "https://conferences.sigcomm.org/sigcomm/2025"
     }
+
+   {
+        "name": "UbiComp 2025 (Round 1)",
+        "submission_deadline": "2025-05-01",
+        "notification_date": "2025-08-01",
+        "conference_dates": {
+            "start": "2025-09-08",
+            "end": "2025-09-11"
+        },
+        "location": "Espoo, Finland",
+        "link": "https://sigchi.org/events/ubicomp-iswc-2025/"
+    }
+
+     
 ]
