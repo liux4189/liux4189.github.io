@@ -53,5 +53,38 @@
         },
         "location": "Espoo, Finland",
         "link": "https://sigchi.org/events/ubicomp-iswc-2025/"
+    },
+    {
+        "name": "IJCAI 2025",
+        "submission_deadline": "2025-01-23",
+        "notification_date": "2025-04-28",
+        "conference_dates": {
+            "start": "2025-09-08",
+            "end": "2025-09-11"
+        },
+        "location": "Montreal, Canada",
+        "link": "https://2025.ijcai.org/"
+    },
+    {
+        "name": "CCS 2025 (Round 1)",
+        "submission_deadline": "2025-01-09",
+        "notification_date": "2025-03-28",
+        "conference_dates": {
+            "start": "2025-10-13",
+            "end": "2025-10-117"
+        },
+        "location": "Taipei, Taiwan",
+        "link": "https://www.sigsac.org/ccs/CCS2025"
+    } ,
+    {
+        "name": "CCS 2025 (Round 2)",
+        "submission_deadline": "2025-04-14",
+        "notification_date": "2025-07-01",
+        "conference_dates": {
+            "start": "2025-10-13",
+            "end": "2025-10-117"
+        },
+        "location": "Taipei, Taiwan",
+        "link": "https://www.sigsac.org/ccs/CCS2025"
     }
 ]
