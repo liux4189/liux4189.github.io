@@ -1,14 +1,14 @@
 [
     {
-        "name": "Conference Name 1",
-        "submission_deadline": "2024-01-15",
-        "notification_date": "2024-02-15",
+        "name": "Mobisys 2025",
+        "submission_deadline": "2024-12-09",
+        "notification_date": "2025-03-07",
         "conference_dates": {
-            "start": "2024-03-20",
-            "end": "2024-03-25"
+            "start": "2025-07-01",
+            "end": "2025-07-02"
         },
-        "location": "San Francisco, CA, USA",
-        "link": "https://conference1.com"
+        "location": "Anaheim, California, US",
+        "link": "https://sigmobile.org/mobisys/2025/"
     },
     {
         "name": "Conference Name 2",
