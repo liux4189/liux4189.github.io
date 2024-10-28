@@ -32,7 +32,7 @@
         "location": "Coimbra, Portugal",
         "link": "https://conferences.sigcomm.org/sigcomm/2025"
     },
-      {
+    {
         "name": "UbiComp 2025 (Round 1)",
         "submission_deadline": "2025-02-01",
         "notification_date": "2025-05-01",
@@ -43,8 +43,8 @@
         "location": "Espoo, Finland",
         "link": "https://sigchi.org/events/ubicomp-iswc-2025/"
     },
-   {
-        "name": "UbiComp 2025 (Round 1)",
+    {
+        "name": "UbiComp 2025 (Round 2)",
         "submission_deadline": "2025-05-01",
         "notification_date": "2025-08-01",
         "conference_dates": {
@@ -54,6 +54,4 @@
         "location": "Espoo, Finland",
         "link": "https://sigchi.org/events/ubicomp-iswc-2025/"
     }
-
-     
 ]
