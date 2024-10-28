@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conference Deadlines</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        li:hover {
+            background-color: #f9f9f9;
+        }
+        a {
+            text-decoration: none;
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <h2>Upcoming Conference Deadlines</h2>
+    <ul id="conference-list"></ul>
+
+    <script>
+        // Sample data: You can replace this with your own or fetch it from an external source
+        const conferences = [
+            {
+                name: "Conference Name 1",
+                deadline: "January 15, 2024",
+                link: "https://conference1.com"
+            },
+            {
+                name: "Conference Name 2",
+                deadline: "February 10, 2024",
+                link: "https://conference2.com"
+            },
+            {
+                name: "Conference Name 3",
+                deadline: "March 5, 2024",
+                link: "https://conference3.com"
+            }
+        ];
+
+        const conferenceList = document.getElementById('conference-list');
+
+        conferences.forEach(conference => {
+            const li = document.createElement('li');
+            li.innerHTML = `
+                <strong>${conference.name}</strong> - Submission Deadline: <em>${conference.deadline}</em>
+                <br>
+                <a href="${conference.link}" target="_blank">Visit Conference Website</a>
+            `;
+            conferenceList.appendChild(li);
+        });
+    </script>
+</body>
+</html>
