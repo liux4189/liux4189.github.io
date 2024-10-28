@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Conference Name 1",
+        "submission_deadline": "2024-01-15",
+        "notification_date": "2024-02-15",
+        "conference_dates": {
+            "start": "2024-03-20",
+            "end": "2024-03-25"
+        },
+        "location": "San Francisco, CA, USA",
+        "link": "https://conference1.com"
+    },
+    {
+        "name": "Conference Name 2",
+        "submission_deadline": "2024-02-10",
+        "notification_date": "2024-03-10",
+        "conference_dates": {
+            "start": "2024-04-15",
+            "end": "2024-04-18"
+        },
+        "location": "Paris, France",
+        "link": "https://conference2.com"
+    },
+    {
+        "name": "Conference Name 3",
+        "submission_deadline": "2024-03-05",
+        "notification_date": "2024-04-05",
+        "conference_dates": {
+            "start": "2024-05-10",
+            "end": "2024-05-14"
+        },
+        "location": "Tokyo, Japan",
+        "link": "https://conference3.com"
+    }
+]
