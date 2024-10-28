@@ -4,63 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conference Deadlines</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h2 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            padding: 10px;
-            border-bottom: 1px solid #ddd;
-        }
-        li:hover {
-            background-color: #f9f9f9;
-        }
-        a {
-            text-decoration: none;
-            color: #0073e6;
-        }
-    </style>
 </head>
 <body>
-    <h2>Upcoming Conference Deadlines</h2>
+    <h1>Upcoming Conference Deadlines</h1>
     <ul id="conference-list"></ul>
 
-  <script>
-    // Function to calculate days until the deadline
-    function daysUntilDeadline(deadline) {
-        const today = new Date();
-        const submissionDate = new Date(deadline);
-        const timeDifference = submissionDate - today;
-        const daysUntil = Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
-        return daysUntil > 0 ? daysUntil : "Deadline passed";
-    }
+    <script>
+        // Function to calculate days until the deadline
+        function daysUntilDeadline(deadline) {
+            const today = new Date();
+            const submissionDate = new Date(deadline);
+            const timeDifference = submissionDate - today;
+            const daysUntil = Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
+            return daysUntil > 0 ? `${daysUntil} days remaining` : "Deadline passed";
+        }
 
-    fetch('conferences.json')
-        .then(response => response.json())
-        .then(conferences => {
-            const conferenceList = document.getElementById('conference-list');
-            conferences.forEach(conference => {
-                const daysUntil = daysUntilDeadline(conference.submission_deadline);
-                const li = document.createElement('li');
-                li.innerHTML = `
-                    <strong>${conference.name}</strong><br>
-                    <em>Submission Deadline:</em> ${conference.submission_deadline} (${daysUntil} days remaining)<br>
-                    <em>Notification Date:</em> ${conference.notification_date}<br>
-                   <!-- <em>Conference Dates:</em> ${conference.conference_dates.start} - ${conference.conference_dates.end}<br> -->
-                    <em>Location:</em> ${conference.location}<br>
-                    <a href="${conference.link}" target="_blank">Visit Conference Website</a>
-                `;
-                conferenceList.appendChild(li);
-            });
-        })
-        .catch(error => console.error('Error fetching the conference data:', error));
-   </script>
+        // Fetch and display conference data, sorted by submission deadline
+        fetch('conferences.json')
+            .then(response => response.json())
+            .then(conferences => {
+                // Sort conferences by submission deadline
+                conferences.sort((a, b) => new Date(a.submission_deadline) - new Date(b.submission_deadline));
+
+                const conferenceList = document.getElementById('conference-list');
+                conferences.forEach(conference => {
+                    const daysUntil = daysUntilDeadline(conference.submission_deadline);
+                    const li = document.createElement('li');
+                    li.innerHTML = `
+                        <strong>${conference.name}</strong><br>
+                        <em>Submission Deadline:</em> ${conference.submission_deadline} (${daysUntil})<br>
+                        <em>Notification Date:</em> ${conference.notification_date}<br>
+                        <em>Conference Dates:</em> ${conference.conference_dates.start} - ${conference.conference_dates.end}<br>
+                        <em>Location:</em> ${conference.location}<br>
+                        <a href="${conference.link}" target="_blank">Visit Conference Website</a>
+                    `;
+                    conferenceList.appendChild(li);
+                });
+            })
+            .catch(error => console.error('Error fetching the conference data:', error));
+    </script>
 </body>
 </html>
