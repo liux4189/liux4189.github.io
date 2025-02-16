@@ -28,8 +28,8 @@ Research Interests
 
 Recent News
 ======
-Jan 2025.  Serve as the TPC of ICDCS 2025
-Dec 2025.  Serve as the TPC of [MOST 2025](https://ieeemobility.org/MOST2025/).
+Jan 2025.  Serve as the TPC of ICDCS 2025.<br>
+Dec 2025.  Serve as the TPC of [MOST 2025](https://ieeemobility.org/MOST2025/).<br>
 Oct 2024.  Our work on cross Radar-Camera person Re-identification was accepted in Sensys 2024. [[paper](https://liux4189.github.io/files/Mission_Sensys24.pdf)]<br>
 Apr 2024.  Two papers accepted at IJCAI 2024 and CIKM 2024. <br>
 Sep 2023.  Our work on egocentric human pose estimation using mmWave radar headset was accepted in Sensys 2023 [paper](https://liux4189.github.io/files/mmEgo_sensys23.pdf). <br>
