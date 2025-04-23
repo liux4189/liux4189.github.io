@@ -12,7 +12,7 @@ redirect_from:
 
 Opening
 ======
-<span style="color:red">Openings: I am currently looking for self-motivated Ph.D. students starting from 2025Spring/Fall ([opportuniy description]( https://liux4189.github.io/opportunity/), [Application instruction](https://engineering.msu.edu/academics/majors-degrees/computer-science-phd#admissions)).  If you are interested in working with me, feel free to send me your CV to liuruofe@msu.edu.  
+<span style="color:red">Openings: I am currently looking for self-motivated Ph.D. students starting from 2026 Spring/Fall ([opportunity description]( https://liux4189.github.io/opportunity/), [Application instruction](https://engineering.msu.edu/academics/majors-degrees/computer-science-phd#admissions)) as well as summer interns and capstone project students.  If you are interested in working with me, please send your CV to liuruofe@msu.edu. 
 </span>
 
 About me 
