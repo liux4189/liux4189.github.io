@@ -28,6 +28,8 @@ Research Interests
 
 Recent News
 ======
+Spe 2025.  One paper was accepted at NeurIPS 2025.<br>
+May 2025.  Serve as the registration chair of [ICNP 2025](https://ieeeicnp2025.pages.dev/). <br>
 Jan 2025.  Serve as the TPC of ICDCS 2025.<br>
 Dec 2025.  Serve as the TPC of [MOST 2025](https://ieeemobility.org/MOST2025/).<br>
 Oct 2024.  Our work on cross Radar-Camera person Re-identification was accepted in Sensys 2024. [[paper](https://liux4189.github.io/files/Mission_Sensys24.pdf)]<br>
@@ -42,7 +44,8 @@ Jan 2021. Our paper "WiBeacon" was accepted to [MobiCom 2021](https://www.sigmob
 
 Service
 ======
-* PC member: icpads 2021, 2022
+* Organization committee: ICNP 2025
+* PC member:  MOST, ICDCS, icpads 
 * Reviewer: IMWUT, ICC'21, SECON'22, TMC, IEEE Systems Journal, IEEE Access, JPDC 
 
 Contact
