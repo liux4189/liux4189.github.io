@@ -22,9 +22,9 @@ About me
 Research Interests
 ======
 * Wireless Sensing (mmWave, UWB, acoustic)
-* Cross-Technology Communication
 * Multi-modal Machine Learning
-* Network Performance Measurement
+* 5G/6G and IoT communication
+* Embodied AI
 
 Recent News
 ======
