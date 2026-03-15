@@ -28,7 +28,9 @@ Research Interests
 
 Recent News
 ======
-Spe 2025.  One paper was accepted at NeurIPS 2025.<br>
+Feb 2026.  I will organize 1st Workshop on Deployment of Foundation Models for Embodied AI co-located with [CVPR 2026](https://wdfm-eai.github.io/CVPR26/). <br>
+Jan 2026.  Serve as TPC of [ICDCS 2026](https://icdcs2026.icdcs.org/), [MOST 2026](https://ieeemobility.org/MOST2026/), and [CHASE 2026](https://conferences.computer.org/chase2026/). <br> 
+Sep 2025.  One paper was accepted at NeurIPS 2025.<br>
 May 2025.  Serve as the registration chair of [ICNP 2025](https://ieeeicnp2025.pages.dev/). <br>
 Jan 2025.  Serve as the TPC of ICDCS 2025.<br>
 Dec 2025.  Serve as the TPC of [MOST 2025](https://ieeemobility.org/MOST2025/).<br>
