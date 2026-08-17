@@ -33,6 +33,7 @@ Research Interests
 
 Recent News
 ======
+Aug 2026. My Ph.D. student Fangwei Zhang's first work has been accepted to [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/). Congratulations!
 June 2026. Four papers accepted at ECCV 2026, IROS 2026, and UbiComp/ISWC 2026.  <br> 
 Feb 2026.  I will organize the 1st Workshop on Deployment of Foundation Models for Embodied AI co-located with [CVPR 2026](https://wdfm-eai.github.io/CVPR26/). <br>
 Jan 2026.  Serve as TPC of [ICDCS 2026](https://icdcs2026.icdcs.org/), [MOST 2026](https://ieeemobility.org/MOST2026/), and [CHASE 2026](https://conferences.computer.org/chase2026/). <br> 
